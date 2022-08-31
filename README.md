@@ -25,6 +25,7 @@
 
 ## Complete the Jupyter Notebook
 
+* If you're new to Jupyter Notebooks, here's a short demonstration of how to get started: https://youtu.be/H1qhgB2LyN8
 * Go through the tutorial at https://www.educative.io/courses/learn-python-3-from-scratch/BnxqV56jvjx
 * Complete the exercises in the Jupyter Notebook which is included in this repository.
 * The exercises follow very closely the instructional material on the site linked above. (Sometimes exactly, sometimes with some slight variation.)
